@@ -22,7 +22,7 @@ public class GuessTheNumberGame {
 
         while (!HasGuessCorrect) {
             System.out.println("Enter Your Guess: ");
-            int UserGuess = scanner.nextInt();
+             int UserGuess = scanner.nextInt();
 
             NumberofTries++;
 
